@@ -1,7 +1,7 @@
 {
-  "name": "react-props-practice",
+  "name": "react-props",
   "version": "1.0.0",
-  "description": "",
+  "description": "using react props to display multiple components with different data but same structure",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
